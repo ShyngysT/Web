@@ -5,3 +5,4 @@ python3 manage.py startapp <name> -> создать приложение
 python3 manage.py createsuperuser -> создает админку
 Admin
 admin
+source venv/bin/activate -> чтобы войти в env
