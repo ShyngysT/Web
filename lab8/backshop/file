@@ -1,7 +1,0 @@
-python3 manage.py runserver -> запускать проект
-python3 manage.py makemigrations
-python3 manage.py migrate -> чтобы добавить в бд
-python3 manage.py startapp <name> -> создать приложение
-python3 manage.py createsuperuser -> создает админку
-Admin
-admin
