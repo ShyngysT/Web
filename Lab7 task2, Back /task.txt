@@ -1,0 +1,17 @@
+1) Install virtualenv
+python3 -m venv name
+
+2) Practice creating new environments
+enter to venv:
+source venv/bin/activate
+
+install django to venv:
+pip install django
+
+3) Create empty Django project 
+django-admin startproject name
+python3 manage.py startapp name
+python3 manage.py runserver
+
+4) Create SuperUser and login to Admin Site
+python3 manage.py createsuperuser
